@@ -1,10 +1,10 @@
 # PointDistiller
-> [**Point-Distiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PointDistiller_Structured_Knowledge_Distillation_Towards_Efficient_and_Compact_3D_Detection_CVPR_2023_paper.pdf), CVPR'23 <br>
+> [**PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PointDistiller_Structured_Knowledge_Distillation_Towards_Efficient_and_Compact_3D_Detection_CVPR_2023_paper.pdf), CVPR'23 <br>
 > [Linfeng Zhang](http://group.iiis.tsinghua.edu.cn/~maks/linfeng/index.html)\*, [Runpei Dong](https://runpeidong.com/)\*, [Hung-Shuo Tai](https://scholar.google.com/citations?user=_atJMtEAAAAJ&hl=en), and [Kaisheng Ma](http://group.iiis.tsinghua.edu.cn/~maks/leader.html) <br>
 
 [arXiv](https://arxiv.org/abs/2205.11098) | [OpenAccess](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_PointDistiller_Structured_Knowledge_Distillation_Towards_Efficient_and_Compact_3D_Detection_CVPR_2023_paper.pdf) | [Logs](https://drive.google.com/drive/folders/1jA14eMk-0fIywFxku-ijfMIBzFTp7Lef?usp=share_link)
 
-This repository contains the implementation of the paper **Point-Distiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection** (CVPR 2023).
+This repository contains the implementation of the paper **PointDistiller: Structured Knowledge Distillation Towards Efficient and Compact 3D Detection** (CVPR 2023).
 
 ![PointDistiller](./resources/point_distiller.png)
 
