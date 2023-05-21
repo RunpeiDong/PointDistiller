@@ -24,7 +24,7 @@ This codebase was tested with the following environment configurations. It may w
 Please refer to [getting_started.md](./getting_started.md) for installation.
 
 ## 2. Datasets
-We use [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) and [nuScenes](https://www.nuscenes.org/) datsets, please follow the [official instructions](https://mmdetection3d.readthedocs.io/en/latest/data_preparation.html) for set up.
+We use [KITTI](https://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) and [nuScenes](https://www.nuscenes.org/) datsets, please follow the [official instructions](https://mmdetection3d.readthedocs.io/en/latest/) for set up.
 
 ## 3. How to Run
 Please make sure you have set up the environments and you can start knowledge distillation by running 
