@@ -84,6 +84,7 @@ class VoxelNet(SingleStage3DDetector):
         #                                     act_cfg=dict(type='ReLU'),
         #                                     bias='auto')
         
+        self.kd_cfg = train_cfg.get("kd_cfg", None)
         # KD layer configurations (for SECOND)
         if self.kd_cfg is not None:
             import math
